@@ -73,7 +73,7 @@ PODS:
     - React/Core
     - React/fishhook
     - React/RCTBlob
-  - RNGestureHandler (1.0.15):
+  - RNGestureHandler (1.1.0):
     - React
   - yoga (0.58.4.React)
 
@@ -127,8 +127,8 @@ SPEC CHECKSUMS:
   Google-Maps-iOS-Utils: c32891ff472eaaa1fca032beedafa1a013af7875
   GoogleMaps: c087b8e5dfe87ca6ebf59adb9b4894a4146bec4f
   React: 9b873b38b92ed8012d7cdf3b965477095ed364c4
-  react-native-google-maps: b946d62e25dc66097921ed82520e45b0b081768a
-  react-native-maps: 066c2afcc89e18726377bcc685315f989ca22449
+  react-native-google-maps: 77af0fa3b5325c72c107d054677911f6e6170496
+  react-native-maps: bb480348a3fe1e5a811fed1ba3387b329161c5cc
   RNGestureHandler: afde2addc517e85cc97a25bfe119acbee779a7ce
   yoga: 0885622311729a02c2bc02dca97167787a51488b
 
