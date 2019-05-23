@@ -73,7 +73,7 @@ PODS:
     - React/Core
     - React/fishhook
     - React/RCTBlob
-  - RNGestureHandler (1.1.0):
+  - RNGestureHandler (1.2.1):
     - React
   - yoga (0.58.4.React)
 
@@ -129,7 +129,7 @@ SPEC CHECKSUMS:
   React: 9b873b38b92ed8012d7cdf3b965477095ed364c4
   react-native-google-maps: 77af0fa3b5325c72c107d054677911f6e6170496
   react-native-maps: bb480348a3fe1e5a811fed1ba3387b329161c5cc
-  RNGestureHandler: afde2addc517e85cc97a25bfe119acbee779a7ce
+  RNGestureHandler: 7ccf2f3f60458e084f9ada01fbaf610f6fef073c
   yoga: 0885622311729a02c2bc02dca97167787a51488b
 
 PODFILE CHECKSUM: 6b5fc6917892793b3b3b74059818cb34e6534c66
